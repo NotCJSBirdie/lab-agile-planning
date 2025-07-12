@@ -7,24 +7,17 @@ assignees: ''
 
 ---
 
-5.
-Question 5
-What happens to stories put in the icebox on a kanban board?
-
-
-They are items that will not go to the backlog.
-
-
-
-They remain in the icebox, like an archived item.
-
-
-
-They eventually may be moved to the product backlog.
-
-
-
-They are rejected.
-
-
-1 point
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
